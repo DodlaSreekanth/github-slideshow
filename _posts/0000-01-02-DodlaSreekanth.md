@@ -1,6 +1,6 @@
 ---
 layout: slide
 title: "Welcome to our second slide!"
-'i am srre sreeee"---
+"this is sree from nellore"--
 
 Use the left arrow to go back!
